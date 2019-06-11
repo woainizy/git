@@ -7,6 +7,11 @@ public class First {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
+        System.out.println("hello");
 
     }
     public void test(){
